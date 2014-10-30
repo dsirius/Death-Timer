@@ -26,7 +26,7 @@ sourceSets {
 }
 
 minecraft {
-    version = "1.6.4-LATEST"
+    version = "1.7.0-10.13.2.1232"
     assetDir = "run/assets"
 }
 
